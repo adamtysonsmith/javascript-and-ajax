@@ -1,0 +1,12 @@
+<note>
+    <to>Tom</to>
+    <from>Jan</from>
+    <heading>Pants Reminder</heading>
+    <body>Don't forget to wear pants this weekend!</body>
+</note>
+<note>
+    <to>Adam</to>
+    <from>Patrick</from>
+    <heading>Hello</heading>
+    <body>This is a simple note.</body>
+</note>
