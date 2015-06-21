@@ -1,12 +1,44 @@
+<notes>
 <note>
     <to>Tom</to>
     <from>Jan</from>
-    <heading>Pants Reminder</heading>
+    <subject>Pants Reminder</subject>
     <body>Don't forget to wear pants this weekend!</body>
 </note>
 <note>
     <to>Adam</to>
     <from>Patrick</from>
-    <heading>Hello</heading>
+    <subject>Hello</subject>
     <body>This is a simple note.</body>
 </note>
+<note>
+    <to>Lisa</to>
+    <from>Adam</from>
+    <subject>Rent is Due</subject>
+    <body>Pay up or I will kindly break your legs.</body>
+</note>
+<note>
+    <to>Erin</to>
+    <from>Lisa</from>
+    <subject>Bike Ride</subject>
+    <body>Let's go on a bike ride this weekend!</body>
+</note>
+<note>
+    <to>Alex</to>
+    <from>Ellie</from>
+    <subject>Groceries</subject>
+    <body>Don't forget to pick up filet mingnon from Price Chopper.</body>
+</note>
+<note>
+    <to>Angela</to>
+    <from>Alex</from>
+    <subject>Princess Pollywog</subject>
+    <body>Take the dog to the vet today at 6 pm.</body>
+</note>
+<note>
+    <to>Sarah Conner</to>
+    <from>The Terminator</from>
+    <subject>Important</subject>
+    <body>Come with me if you want to live.</body>
+</note>
+</notes>

@@ -14,7 +14,7 @@ request.open('GET','content/data.txt');
 
 request.onreadystatechange = function() {
     if ((request.status === 200) && (request.readyState === 4)) {
-
+        
         // Target an Element by ID, and insert data
         var modifyElement = document.getElementById('update');
         modifyElement.innerHTML = request.responseText;
@@ -27,12 +27,6 @@ request.onreadystatechange = function() {
         modifyGroup[2].innerHTML = 'This is the 3rd List Item in the Array';
         modifyGroup[3].innerHTML = 'The response is: ' + request.response;
         modifyGroup[4].innerHTML = 'The responseURL is: ' + request.responseURL;
-        
-        // Parsing XML Data
-        var xmlData;
-        
-        // Parsing JSON Data
-        var jsonData;
     }
 }
 
